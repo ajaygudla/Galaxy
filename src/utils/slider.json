@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Tomoe Villas",
+    "price": "37,63,440",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Asatti Garden City",
+    "price": "53,08,240",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "The Riparian House",
+    "price": "63,12,500",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "The Running Wall Residence",
+    "price": "37,63,440",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Asatti Garden City",
+    "price": "53,08,240",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Hornbill House",
+    "price": "63,12,500",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "./r3.png"
+  }
+]
